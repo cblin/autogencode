@@ -7,8 +7,8 @@
 controller的以后再补
 
 2 根据字符串生成类，主要是针对json
-与服务器交互时，经常用到json，这个功能可以根据json直接生成类的定义和实现，包含解析的类方法和description方法
-json原串：{"key1":"value1","key2":"value2"}
+与服务器交互时，经常用到json，这个功能可以根据json直接生成类的定义和实现，包含解析的类方法和description方法；
+json原串：{"key1":"value1","key2":"value2”}；
 xcode打印(可以不含大括号)：
 {
    key1 = value1;
